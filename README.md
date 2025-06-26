@@ -3,7 +3,7 @@
   **`Estudante de desenvolvimento de software`**
 
 Me chamo Manoel Pinto da Conceição Neto, tenho 15 anos e vivo em Paripiranga, Bahia. Estou concluindo o ensino fundamental no ALT(ex Colégio Ages).
-Alem disso, atualmente, estou estudando Front-End. Sou apaixonada por tecnologia e pretendo viver a partir da área.
+Alem disso, atualmente, estou estudando Front-End. Sou apaixonado por tecnologia e pretendo viver a partir da área.
 
 <p align="left">
     <a href="https://www.youtube.com/@DEV_Mano-ManooI">
