@@ -84,6 +84,11 @@ Alem disso, atualmente, estou estudando front-End. Sou apaixonada por tecnologia
 <br/>
 <br/>
 
+<img src="https://raw.githubusercontent.com/Mano-ManooI/Mano-ManooI/output/snake.svg" alt="Snake animation" />
+
+<br>
+<br>
+
 ### 📊 Estatísticas
 
 <p>
