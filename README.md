@@ -2,8 +2,7 @@
 
   **`Estudante de desenvolvimento de software`**
 
-Me chamo Manoel Pinto da Conceição Neto, tenho 15 anos. Estou concluindo o ensino fundamental.
-Alem disso, atualmente, estou estudando Front-End. Sou apaixonado por tecnologia e pretendo viver a partir da área.
+Me chamo Manoel Pinto da Conceição Neto, tenho 15 anos. Estou no 1º ano do ensino médio. Alem disso, atualmente, estou estudando Front-End. Sou apaixonado por tecnologia e pretendo viver a partir da área.
 
 <p align="left">
     <a href="https://www.youtube.com/@DEV_Mano-ManooI">
